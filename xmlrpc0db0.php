@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>http://algorepublic.com</homePageLink>
+    <homePageLink>http://mobile.entuit.co.za</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://algorepublic.com/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://algorepublic.com/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://algorepublic.com/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://algorepublic.com/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://algorepublic.com/wp-json/" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="http://mobile.entuit.co.za/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://mobile.entuit.co.za/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://mobile.entuit.co.za/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://mobile.entuit.co.za/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://mobile.entuit.co.za/wp-json/" />
 	    </apis>
   </service>
 </rsd>
